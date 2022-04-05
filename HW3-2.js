@@ -19,3 +19,4 @@ function countBasketPrice(arr){//суммарная цена
     }
     return Price;
 }
+// 2 и 3 задания
